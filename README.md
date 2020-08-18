@@ -1,5 +1,5 @@
 <h1 align="center"> 
-  <img alt="preview" witdh="750" src="https://raw.githubusercontent.com/freirart/responsive-signIn-signUp/master/preview-signin-signup.gif" /><br />
+  <img alt="preview" src="https://raw.githubusercontent.com/freirart/responsive-signIn-signUp/master/signin-signup.gif" /><br />
   🍉 Responsive Sign In/Sign Up Page 🍉
 </h1>
 
